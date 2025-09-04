@@ -1,0 +1,12 @@
+Qasim Khan
+
+Commands I used in linux are = 
+- ls: it lists the directory content
+- cd : changes the directory
+- pico: text editor to create or edit files
+
+
+Commands I used in git are = 
+- git add: stages files
+- git commit: commits the files
+- git push: pushes the file to github.
